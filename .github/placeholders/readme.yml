@@ -1,0 +1,12 @@
+REPO_TAGLINE: Optics • Eletromagnetism • Error Theory 
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/IF4300214-Fisica-Experimental-IV
+
+BG_1: "#0B1220"
+BG_2: "#0F766E"
+TEXT_MAIN: "#F0FDFA"
+TEXT_MUTED: "#99F6E4"
+ACCENT: "#2DD4BF"
+CARD_RADIUS: "18"
